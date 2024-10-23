@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "password": "hashed_password_1",
+      "role": "artist"
+    },
+    {
+      "id": "2",
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "password": "hashed_password_2",
+      "role": "buyer"
+    },
+    {
+      "id": "904c",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "8ec8",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "1081",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "f887",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "9b1c",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "7200",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "5285",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12345",
+      "role": "buyer"
+    },
+    {
+      "id": "4610",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12345",
+      "role": "buyer"
+    },
+    {
+      "id": "fdf9",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "buyer"
+    },
+    {
+      "id": "6851",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "artist"
+    },
+    {
+      "id": "c1da",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "buyer"
+    },
+    {
+      "id": "3f76",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "buyer"
+    },
+    {
+      "id": "ea7d",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "buyer"
+    },
+    {
+      "id": "5aa9",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "buyer"
+    },
+    {
+      "id": "9ede",
+      "email": "wahomeroy5@gmail.com",
+      "password": "12233",
+      "role": "artist"
+    },
+    {
+      "id": "0b8d",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    },
+    {
+      "id": "85c8",
+      "email": "wahomeroy5@gmail.com",
+      "password": "1234",
+      "role": "buyer"
+    }
+  ],
+  "artworks": [
+    {
+      "id": "1",
+      "title": "Sunset Over Ocean",
+      "description": "A beautiful painting of a sunset over the ocean.",
+      "price": 150,
+      "image_url": "https://images.pexels.com/photos/561463/pexels-photo-561463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "artist_id": 1
+    },
+    {
+      "id": "2",
+      "title": "Starry Night",
+      "description": "A vibrant artwork inspired by Van Gogh's Starry Night.",
+      "price": 250,
+      "image_url": "https://images.pexels.com/photos/13249332/pexels-photo-13249332.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "artist_id": 1
+    },
+    {
+      "id": "0e2e",
+      "title": "the moon",
+      "description": "the beautiful art peicie..",
+      "price": 0,
+      "image_url": "https://images.pexels.com/photos/4035493/pexels-photo-4035493.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "artwork_id": 1,
+      "user_id": 2,
+      "rating": 5,
+      "comment": "Absolutely stunning!"
+    },
+    {
+      "id": "2",
+      "artwork_id": 2,
+      "user_id": 2,
+      "rating": 4,
+      "comment": "Very beautiful, but a bit overpriced."
+    },
+    {
+      "id": "ad5b",
+      "content": "labxo",
+      "rating": 5
+    },
+    {
+      "id": "aff3",
+      "content": "hvyil",
+      "rating": 5
+    },
+    {
+      "id": "eb81",
+      "content": "jnjb",
+      "rating": 5
+    },
+    {
+      "id": "a480",
+      "content": "bubu",
+      "rating": 5
+    },
+    {
+      "id": "6559",
+      "content": "knwni",
+      "rating": 5
+    },
+    {
+      "id": "6b8e",
+      "content": "what a beautiful piece",
+      "rating": 5
+    }
+  ]
+}

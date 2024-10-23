@@ -1,0 +1,13 @@
+{
+    "name": "art-gallery-json-server",
+    "version": "1.0.0",
+    "description": "JSON server for Art Gallery Marketplace",
+    "main": "index.js",
+    "scripts": {
+      "start": "json-server --watch db.json --port 8080"
+    },
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }
+  
